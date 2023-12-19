@@ -63,13 +63,11 @@ Also, the fact that there no longer is a _business incentive_ would help to redu
 [_By Nora Belrose_](https://bounded-regret.ghost.io/ai-pause-will-likely-backfire-by-nora/)
 
 This is a serious concern. This is why PauseAI also supports a pause on relevant compute improvements.
+There are strong arguments to be made that [overhang is unlikely to occur](https://blog.aiimpacts.org/p/are-there-examples-of-overhang-for).
+
+Also, the 'play' button should not be pressed if we still don't know how to build safe AI.
 
 However, we still think a pause in AI scaling would probably be sensible even if there is no pause in GPU improvements because there is a serious possibility that we will achieve AGI in the next 5 years mostly by spending more money on GPUs, rather than by having better hardware.
-
-<!--
-## Policital capital is limited, Pause might fail
-
-AI safety people will be taken less seriously -->
 
 ## Algorithmic or runtime improvements may make smaller models dangerous, too
 
